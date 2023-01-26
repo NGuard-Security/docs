@@ -9,12 +9,13 @@
 
 ## 🇬🇧 English <a href="#en" id="en"></a>
 
-* [Page 1](en/page-1.md)
+* [📘 NGuard Security Guide](en/main.md)
+* [🛫 Getting ready](en/prepare.md)
 
 ## 🇯🇵 日本語 <a href="#ja" id="ja"></a>
 
-* [Page 2](ja/page-2.md)
+* [Preparing translation documents](ja/notyet.md)
 
 ## 🇻🇳 Tiếng Việt <a href="#vi" id="vi"></a>
 
-* [Page 3](vi/page-3.md)
+* [Preparing translation documents](vi/notyet.md)
