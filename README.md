@@ -1,5 +1,6 @@
 ---
 description: 본 가이드 문서에서는 NGuard Security 서비스를 어떻게 이용하는지 알려드립니다.
+coverY: 0
 ---
 
 # 📘 NGuard Security 사용 가이드
