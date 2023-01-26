@@ -14,8 +14,9 @@
 
 ## 🇯🇵 日本語 <a href="#ja" id="ja"></a>
 
-* [Preparing translation documents](ja/notyet.md)
+* [Preparing translation documents](ja/page-2.md)
 
 ## 🇻🇳 Tiếng Việt <a href="#vi" id="vi"></a>
 
-* [Preparing translation documents](vi/notyet.md)
+* [📘 Tài liệu Hướng dẫn NGuard Security](vi/main.md)
+* [🛫 Chuẩn bị sẵn sàng](vi/prepare.md)
