@@ -26,11 +26,11 @@ description: Enterprise 플랜 사용자를 위한 커스텀 도메인 초대링
 
 NGuard Console에서 초대링크 설정에 들어가면, 커스텀 도메인을 설정할 수 있는 메뉴를 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 커스텀 초대링크 토글을 눌러 활성화 하면, 아래와 같은 화면을 볼 수 있습니다:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 이제 '도메인 설정' 란에 설정하려는 커스텀 도메인을 입력합니다.\
 (아직 저장하면 안됩니다.)
@@ -64,6 +64,8 @@ NGuard Console에서 **SSL 설정을 꺼주세요**.
 
 이후 Cloudflare의 SSL 탭에서 SSL 설정을 **가변 (Flexible)** 으로 설정해 주세요.\
 이미 돌아가고 있는 다른 서비스가 있다면, Rules 탭에서 Configuration Rules를 생성해 아래와 같이 설정해 주세요.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 원하신다면, **회색 구름 (DNS-only)** 로 설정하고 **SSL 설정을 켜실 수 있으나**, 추천드리지 않습니다.\
 이는 보안에 취약해 질 수 있기 때문입니다. 주황색 구름이 아닌 경우 다른 사용자가 서비스를 남용하거나 DDoS 공격을 진행할 수 있습니다.

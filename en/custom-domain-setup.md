@@ -31,11 +31,11 @@ Here are some examples of what you can and cannot choose from:
 If you go into the invitation link settings in the NGuard Console,\
 you can see a menu where you can set a custom domain.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you activate the custom invitation link toggle, you will see a screen like the one below:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now enter the custom domain you want to set up in the ‘Domain Settings’ field.\
 (Do not save yet.)
@@ -62,6 +62,10 @@ Here's an example of how a correct configuration looks in Cloudflare's control p
 #### Are you using Cloudflare?
 
 If you are using Cloudflare as your DNS provider, make sure it is set to **Orange Cloud (Proxied)**. **Turn off SSL settings** in NGuard Console.
+
+Afterwards, set the SSL settings to **Flexible** in Cloudflare's SSL tab. If there are other services already running, create Configuration Rules in the Rules tab and set them as follows.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 If you wish, you can set it to **gray cloud (DNS-only)** and **turn on SSL**, but we do not recommend it. This is because security may become vulnerable. If it is not an orange cloud, other users may abuse the service or conduct DDoS attacks.
 
