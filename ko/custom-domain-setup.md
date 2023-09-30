@@ -62,6 +62,9 @@ DNS 설정은 NGuard Console이 아닌, 커스텀 도메인의 DNS 공급자에�
 Cloudflare를 DNS 공급자로 사용하고 계신 경우, **주황색 구름 (Proxied)** 로 설정하였는지 확인하시고,\
 NGuard Console에서 **SSL 설정을 꺼주세요**.
 
+이후 Cloudflare의 SSL 탭에서 SSL 설정을 **가변 (Flexible)** 으로 설정해 주세요.\
+이미 돌아가고 있는 다른 서비스가 있다면, Rules 탭에서 Configuration Rules를 생성해 아래와 같이 설정해 주세요.
+
 원하신다면, **회색 구름 (DNS-only)** 로 설정하고 **SSL 설정을 켜실 수 있으나**, 추천드리지 않습니다.\
 이는 보안에 취약해 질 수 있기 때문입니다. 주황색 구름이 아닌 경우 다른 사용자가 서비스를 남용하거나 DDoS 공격을 진행할 수 있습니다.
 
