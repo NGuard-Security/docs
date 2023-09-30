@@ -63,11 +63,8 @@ If you use the free plan, you must vote a bot to the Koreanlist.
 
 Once you make a vote, you can use these services without a referral for 12 hours.
 
-<figure><img src="../.gitbook/assets/prepare-invite-koeanbots.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/prepare-invite-koreanbots.png" alt=""><figcaption></figcaption></figure>
 
 In the command verify menu on the right, you can set the server to perform authentication using commands.
 
 <figure><img src="../.gitbook/assets/prepare-verify.png" alt=""><figcaption></figcaption></figure>
-
